@@ -17,6 +17,7 @@ In order to install required dependencies, run the following command:
 
 ## Usage 
 Simply run the js file, answer the questions in the terminal, and enjoy your readme.md! 
+![https://drive.google.com/file/d/1QQvRH0ddRVDBTSa4rOjuYF2JEAqSnufS/view]
 
 ## License 
 None 
