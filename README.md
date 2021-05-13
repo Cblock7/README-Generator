@@ -1,6 +1,7 @@
 # README-Generator
 ## Description 
-> This application will generate a readme.md file for the user by answering questions in the terminal. 
+> This application will generate a readme.md file for the user by answering questions in the terminal. This readme was generated using this application!
+![./readme-generator-ss.jpg] 
 
 ## Table of Contents 
 1. [Installation](#installation) 
@@ -16,7 +17,9 @@ In order to install required dependencies, run the following command:
 > npm i 
 
 ## Usage 
-Simply run the js file, answer the questions in the terminal, and enjoy your readme! 
+Simply run the js file, answer the questions in the terminal, and enjoy your readme!
+Watch this example video!
+https://drive.google.com/file/d/1QQvRH0ddRVDBTSa4rOjuYF2JEAqSnufS/view
 
 ## License 
 None 
