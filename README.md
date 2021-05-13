@@ -2,7 +2,7 @@
 ## Description 
 This application will generate a readme.md file for the user by answering questions in the terminal. This readme was generated using this application!
 
-![/readme-generator-ss.JPG] 
+![](./readme-generator-ss.JPG) 
 
 ## Table of Contents 
 1. [Installation](#installation) 
